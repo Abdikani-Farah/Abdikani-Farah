@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdiqani Farah Ali (Eng: Xaydar)</h1>
-<h3 align="center">🚀 Full Stack Developer | C# Desktop Developer | ASP.NET | Machine Learning Engineer</h3>
+<h3 align="center">🚀 Mern Stack Developer  | C# Desktop Developer | ASP.NET | Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdikani-farah-eng-haydar/">
@@ -89,7 +89,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/abdikani-farah-eng-haydar/  
-- 📞 WhatsApp: https://wa.me/614668477  
+- 📞 WhatsApp: <https://wa.me/614668477 > whatsapp 
 - 💻 GitHub: https://github.com/Abdikani-Farah  
 
 ---
