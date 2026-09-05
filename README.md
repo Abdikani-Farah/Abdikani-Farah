@@ -28,10 +28,11 @@ I build modern web applications with MongoDB, Express.js, React, and Node.js.
 <td width="28%" align="center" valign="middle">
   <br />
   <img
-    src="https://www.abdikani.dev/abdikani-farah-profile.jpeg"
-    width="200"
-    alt="Abdikani Farah"
-  />
+  src="./profile-rounded.svg"
+  width="200"
+  height="200"
+  alt="Abdikani Farah"
+/>
   <br /><br />
   <strong>Abdikani Farah</strong><br />
   <sub>Full Stack MERN Developer</sub>
@@ -211,8 +212,20 @@ Personal projects strengthening responsive layouts, JavaScript, and accessibilit
 
 <br />
 <br />
+<div align="center">
 
-Portfolio   /   LinkedIn   /   GitHub   /   CV
+<h3>Let's Connect</h3>
+<p>Explore my work, connect with me, or download my CV.</p>
+
+<a href="https://abdikani.dev"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0F172A" alt="Visit my portfolio" /></a>
+ 
+<a href="https://www.linkedin.com/in/abdikani-farah-ali/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+ 
+<a href="https://github.com/Abdikani-Farah"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=5EEAD4" alt="Explore my GitHub" /></a>
+ 
+<a href="https://www.abdikani.dev/resume/abdikani-farah-resume.pdf"><img src="https://img.shields.io/badge/Download_CV-134E4A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=5EEAD4" alt="Download my CV" /></a>
+
+</div>
 
 <br />
 <sub>LEARN &nbsp; · &nbsp; BUILD &nbsp; · &nbsp; REFINE</sub>
