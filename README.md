@@ -1,99 +1,165 @@
-<h1 align="center">Hi 👋, I'm Abdikani Farah Ali (Eng: Xaydar)</h1>
-<h3 align="center">🚀 Mern Stack Developer  | C# Desktop Developer | ASP.NET | Machine Learning Engineer</h3>
+<div align="center">
+
+<p><strong>DESIGN · DEVELOP · DELIVER</strong></p>
+<h1>Hi, I'm Abdikani Farah 👋</h1>
+<h3>Full Stack MERN Developer</h3>
+<p>I turn ideas into practical, maintainable web applications.<br />
+Responsive interfaces. Reliable APIs. Useful management systems.</p>
+
+<a href="https://abdikani.dev"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdikani-farah-ali/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logoColor=5EEAD4" alt="LinkedIn" /></a>
+<a href="mailto:eng.abdiqani.farah@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0F172A?style=for-the-badge&logo=gmail&logoColor=5EEAD4" alt="Email me" /></a>
+
+<p><sub>Mogadishu, Somalia · Available for project inquiries</sub></p>
+
+</div>
+
+👨‍💻 About me
+
+I'm a Full Stack MERN Developer focused on turning ideas into practical, maintainable web applications. My work covers responsive frontend development, REST APIs, database design, authentication, and management systems.
+
+I enjoy solving real problems with clean code and thoughtful interfaces. I use AI-assisted development to support research, debugging, documentation, and product iteration, while continuing to grow my foundations in AI and machine learning.
+
+Core stack: MongoDB, Express.js, React, and Node.js.
+
+What I build: Web applications, operational dashboards, and management systems.
+
+Engineering focus: Clear user workflows, maintainable code, and protected application flows.
+
+Currently exploring: Practical AI integrations, data preprocessing, regression, and model evaluation.
+
+⚡ My development stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+
+</div>
+
+Area
+
+Technologies & skills
+
+Frontend
+
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+Backend
+
+Node.js · Express.js · REST APIs · JWT · bcrypt
+
+Database
+
+MongoDB · Mongoose · Database design
+
+Development tools
+
+Git · GitHub · Postman · VS Code · Vite
+
+AI-assisted workflows
+
+AI-assisted development · Prompt engineering · GitHub Copilot · Exploring LLM APIs
+
+AI & data learning
+
+Python · Pandas · NumPy · Scikit-learn · Machine learning foundations
+
+🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.abdikani.dev/projects/farmer-market-connection"><img src="https://www.abdikani.dev/project-previews/farmer-market-preview.webp" width="100%" alt="Farmer Market Connection preview" /></a>
+<h3>Farmer Market Connection</h3>
+<p><sub>🟢 Completed · Full-Stack</sub></p>
+<p>A marketplace connecting farmers and buyers, with farmer, buyer, and admin roles. Includes farm and product listings, order and delivery workflows, a mobile-wallet payment reference flow, and JWT-protected routes.</p>
+<p><strong>React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT</strong></p>
+<p><a href="https://github.com/Abdikani-Farah/farmer-market-connection">Source code ↗</a> &nbsp;·&nbsp; <a href="https://www.abdikani.dev/projects/farmer-market-connection">Case study ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.abdikani.dev/projects/car-packing-management-system"><img src="https://www.abdikani.dev/project-previews/car-parking-preview.webp" width="100%" alt="Car Parking Management System preview" /></a>
+<h3>Car Parking Management System</h3>
+<p><sub>🟢 Completed · Full-Stack</sub></p>
+<p>A central dashboard for parking availability, vehicle entry and exit, customer records, active sessions, pricing, payments, and operational reports.</p>
+<p><strong>React · Vite · JavaScript · Node.js · Express · MongoDB</strong></p>
+<p><a href="https://github.com/Abdikani-Farah/car_packing_management_system">Source code ↗</a> &nbsp;·&nbsp; <a href="https://www.abdikani.dev/projects/car-packing-management-system">Case study ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.abdikani.dev/projects/product-management-system"><img src="https://www.abdikani.dev/project-previews/product-management-preview.webp" width="100%" alt="Product Management System preview" /></a>
+<h3>Product Management System</h3>
+<p><sub>🟢 Completed · Dashboard</sub></p>
+<p>A product dashboard for organizing categories, suppliers, pricing, quantities, and stock status. Includes product entry, inventory tables, and low-stock indicators.</p>
+<p><strong>HTML · CSS · JavaScript</strong></p>
+<p><a href="https://github.com/Abdikani-Farah/Product-Management-System">Source code ↗</a> &nbsp;·&nbsp; <a href="https://www.abdikani.dev/projects/product-management-system">Case study ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.abdikani.dev/projects/inventory-management-project"><img src="https://www.abdikani.dev/project-previews/inventory-management-preview.webp" width="100%" alt="Inventory Management Project preview" /></a>
+<h3>Inventory Management Project</h3>
+<p><sub>🛠️ In progress · Full-Stack</sub></p>
+<p>An evolving MERN workspace bringing products, purchases, sales, suppliers, customers, and stock alerts into one administration dashboard.</p>
+<p><strong>React · JavaScript · Node.js · Express · MongoDB</strong></p>
+<p><a href="https://github.com/Abdikani-Farah/inventory_management_project">Source code ↗</a> &nbsp;·&nbsp; <a href="https://www.abdikani.dev/projects/inventory-management-project">Case study ↗</a></p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdikani-farah-eng-haydar/">
-    <img src="https://img.shields.io/badge/LinkedIn-AbdikaniFarah-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Abdikani-Farah">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://wa.me/614668477">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
-  </a>
+<a href="https://www.abdikani.dev/projects"><strong>View all portfolio projects →</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Abdikani-Farah?tab=repositories"><strong>Explore my repositories →</strong></a>
 </p>
 
----
+🧩 What I can build for you
 
-## 🧠 About Me
+Service
 
-- 🎓 Computer Science Student @ Mogadishu University  
-- 💡 Passionate about **AI, Machine Learning, Full Stack Development & System Design**  
-- 🛠️ Building real-world projects (Web Apps, Desktop Apps, Automation Systems)  
-- 🎨 Skilled in **UI/UX & Graphic Design (Photoshop + Figma)**  
-- ⚡ Goal: Become a **Top Software Engineer & AI Specialist in Africa**
+What I deliver
 
----
+Full stack applications
 
-## 🛠️ Tech Stack
+MERN applications built around your product and user workflows.
 
-### 💻 Programming & Development
-![Python](https://img.shields.io/badge/Python-ML%20%26%20AI-yellow?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-Desktop%20Apps-green?style=for-the-badge&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript)
+Frontend development
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Web%20Development-blue?style=for-the-badge&logo=dot-net)
+Responsive React and Tailwind interfaces with clear layouts and reusable components.
 
-### 🧠 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Engineer-orange?style=for-the-badge&logo=tensorflow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange?style=for-the-badge&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
+Backend & REST APIs
 
-### 🗄️ Database & Tools
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code)
+Express APIs, MongoDB models, authentication, validation, and protected routes.
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX-purple?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?style=for-the-badge&logo=adobephotoshop)
+Admin dashboards
 
----
+Management interfaces and CRUD workflows for day-to-day operations.
 
-## 🚀 Featured Projects
+🌱 My development journey
 
-- 🔹 Evcplus USSD System (Python)  
-- 🔹 Bento Grid Layout (CSS Advanced Design)  
-- 🔹 Blog Preview Card (HTML/CSS UI Component)  
-- 🔹 Recipe Page (Responsive Design)  
-- 🔹 Social Links Profile (Frontend Project)  
+Full Stack MERN Development — Independent Projects<br />Building management systems, JWT-protected APIs, and React dashboards connected to MongoDB.
 
----
+AI-Assisted Development — Continuous Practice<br />Using AI tools to support structured problem-solving, documentation, testing, and refactoring.
 
-## 📊 GitHub Analytics
+AI & Machine Learning — Continuous Learning<br />Practicing Python, data preprocessing, regression, and model evaluation through learning projects and bootcamp work.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdikani-Farah&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdikani-Farah&layout=compact&theme=tokyonight" />
+Frontend Foundations — Personal & Learning Projects<br />Building responsive interfaces while strengthening JavaScript, layout, and accessibility fundamentals.
+
+<div align="center">
+
+<h3>Have an idea worth building?</h3>
+<p>Let's talk about your next web application, dashboard, or API.</p>
+
+<a href="https://www.abdikani.dev/contact"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-5EEAD4?style=for-the-badge&logoColor=0F172A" alt="Start a project conversation" /></a>
+
+<p>
+<a href="https://abdikani.dev">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/abdikani-farah-ali/">LinkedIn</a> ·
+<a href="mailto:eng.abdiqani.farah@gmail.com">Email</a> ·
+<a href="https://www.abdikani.dev/resume/abdikani-farah-resume.pdf">Download CV</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdikani-Farah&theme=tokyonight" />
-</p>
+<sub>Learn · Build · Refine</sub>
 
----
-
-## 🎯 Current Focus
-
-- 🔥 Building Full Stack Applications  
-- 🤖 Learning Machine Learning & AI deeply  
-- 🌐 Creating modern responsive UI/UX  
-- 💼 Freelancing & real-world projects  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/abdikani-farah-eng-haydar/  
-- 📞 WhatsApp: <https://wa.me/614668477 > whatsapp 
-- 💻 GitHub: https://github.com/Abdikani-Farah  
-
----
-
-## 💡 Quote
-
-> "Code is not just writing logic, it's building the future." 🚀
+</div>
