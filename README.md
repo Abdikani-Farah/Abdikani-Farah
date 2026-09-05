@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdiqani Farah Ali (Eng: Xaydar)</h1>
+<h1 align="center">Hi 👋, I'm Abdikani Farah Ali (Eng: Xaydar)</h1>
 <h3 align="center">🚀 Mern Stack Developer  | C# Desktop Developer | ASP.NET | Machine Learning Engineer</h3>
 
 <p align="center">
